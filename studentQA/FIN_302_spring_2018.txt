@@ -174,3 +174,5 @@ Recession
 
 1. If you want to find out how much money you need to invest in order to have a certain amount in the future what formula do you have to use?
    1. FV=PV*(1+i)^t
+   
+   
